@@ -1,0 +1,64 @@
+body{
+    font-family: 'Lato', sans-serif !important;
+    line-height: 2em !important;
+}
+
+.figure-font{
+    letter-spacing: 1px !important;
+}
+
+.social-media{
+    font-size: 1.25em;
+    color: #6c757d;
+    text-decoration: none !important;
+}
+
+.nav-color{
+    color: #212529
+}
+
+.date{
+    font-family: 'Lato', sans-serif !important;
+    color: aliceblue;
+    letter-spacing: 1px !important;
+    font-size: 1.25em;
+    font-weight: 200;
+}
+.date-time{
+    font-family: 'Lato', sans-serif !important;
+    color: aliceblue;
+    letter-spacing: 1px !important;
+    font-size: 1em;
+    font-weight: 200;
+}
+
+.img-height{
+    height: 14em !important;
+    width: 14em !important;
+}
+
+
+.rotate {
+    animation: rotation 6s infinite linear;
+  }
+
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+  
+  .text-wrap {
+    width: 7rem
+  }
+
+  .button{
+    text-decoration: none !important;
+    color: inherit !important;
+  }
+.instgramLink{
+  text-decoration: none !important;
+}
